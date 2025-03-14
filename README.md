@@ -1,5 +1,7 @@
 # proyecto-analisis-de-datos-google
-Proyecto final del certificado de Google de Análisis de datos en Coursera.
+
+# Proyecto final del certificado de Google de Análisis de datos en Coursera.
+
 Caso práctico 2: ¿Cómo puede hacer una empresa tecnología para el bienestar para tomar decisiones inteligentes?
 Introducción
 ¡Bienvenido al caso práctico de análisis de datos de Bellabeat! En este caso práctico, realizarás muchas tareas del mundo real, típicas de un analista de datos júnior. Imaginarás que trabajas para Bellabeat, un fabricante de productos de alta tecnología orientados a la salud de la mujer, y conocerás a diferentes personajes y miembros del equipo. Para responder a las preguntas clave de la empresa, seguirás los pasos del proceso de análisis de datos: preguntar, preparar, procesar, analizar, compartir y actuar. En este proceso, las tablas del mapa de ruta de caso práctico, incluidas las preguntas orientativas y las tareas clave, te ayudarán a mantenerte en el camino correcto.
