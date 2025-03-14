@@ -94,3 +94,102 @@ Equipo Directivo: Tomadores de decisión para asignación de recursos y prioriza
 Entregable: Una Instrucción Clara de la Tarea Empresarial
 Tarea Empresarial:
 Analizar los datos de actividad física registrados por los dispositivos Bellabeat para identificar patrones de uso y segmentar a las usuarias en grupos relevantes, con el fin de desarrollar estrategias personalizadas que incrementen la retención, el uso diario de la app y los dispositivos, y fomenten la conversión hacia productos o planes premium.
+
+Interpretación del gráfico de barras: Porcentaje de segmentos de calorías
+Qué muestra el gráfico
+Tipo de gráfico: Barras verticales.
+
+Título: Porcentaje de segmentos de calorías.
+
+Eje X (Categorías):
+
+Entre 1000 y 2500
+Más de 2500
+Menos de 1000
+Eje Y (Porcentaje): Representa el porcentaje de usuarios dentro de cada rango de calorías quemadas.
+
+Cada barra muestra además el valor porcentual exacto en la parte superior.
+
+1. Segmento: Usuarios que queman menos de 1000 calorías (1.28%)
+Perfil:
+Baja actividad física.
+Probablemente tienen hábitos sedentarios o no utilizan activamente el dispositivo/app.
+Podrían ser nuevos usuarios, usuarios que abandonaron o no han configurado bien su dispositivo.
+Recomendaciones:
+Campañas de activación inicial o reactivación:
+
+Enviar recordatorios push personalizados animando al usuario a dar sus primeros pasos de actividad.
+Ofrecer un tutorial interactivo sobre cómo usar Bellabeat y sus beneficios (ej: “Cómo empezar a mejorar tu salud con Bellabeat”).
+Desafíos para principiantes:
+
+Crear retos de bajo esfuerzo, como caminar 500 pasos al día o 5 minutos de estiramiento, con recompensas virtuales (badges, puntos, etc.).
+Ejemplo: "Desafío 7 días activos: completa 7 días caminando al menos 1000 pasos y gana una medalla digital."
+Programas de educación y concienciación:
+
+Notificaciones educativas con beneficios de la actividad física moderada (mejor sueño, más energía, control del estrés).
+Ejemplo: "Sabías que solo 10 minutos al día de actividad pueden mejorar tu estado de ánimo?"
+Descuentos en productos Bellabeat (cross-selling):
+
+Ofrecer descuentos exclusivos en dispositivos más sencillos o en suscripciones premium para motivar la compra y el uso.
+2. Segmento: Usuarios que queman entre 1000 y 2500 calorías (62.87%)
+Perfil:
+Usuarios moderadamente activos.
+Mantienen un nivel de actividad saludable, pero aún tienen potencial de mejorar.
+Son el grupo más representativo del total de usuarios.
+Recomendaciones:
+Mantenimiento de la motivación:
+
+Ofrecer informes semanales de progreso que destaquen los logros recientes.
+Ejemplo: "¡Felicitaciones! La semana pasada aumentaste tu actividad en un 10%."
+Desafíos de actividad grupales (social engagement):
+
+Crear comunidades donde los usuarios compitan o colaboren en retos (ej: “Camina 30 km con amigos esta semana”).
+Ofrecer tablas de clasificación (gamificación) para fomentar la competencia amistosa.
+Recomendaciones personalizadas de estilo de vida:
+
+Sugerencias de rutinas de ejercicio acorde a su perfil de actividad (cardio, fuerza, yoga).
+Tips de nutrición y bienestar que complementen su nivel de ejercicio.
+Beneficios premium o freemium:
+
+Ofrecer pruebas gratuitas de la app premium o nuevas funcionalidades por su compromiso.
+Ejemplo: acceso gratuito por 30 días a entrenamientos personalizados o meditación guiada.
+3. Segmento: Usuarios que queman más de 2500 calorías (35.85%)
+Perfil:
+Usuarios altamente activos, probablemente deportistas regulares o muy comprometidos con su bienestar físico.
+Pueden estar buscando datos detallados de su rendimiento, desafíos avanzados, y coaching personalizado.
+Recomendaciones:
+Programas de entrenamiento avanzados:
+
+Ofrecer planes premium enfocados en rendimiento deportivo, entrenamiento de alta intensidad (HIIT) o resistencia.
+Incorporar recomendaciones basadas en datos biométricos, como frecuencia cardíaca o sueño.
+Coaching personalizado (monetizable):
+
+Servicios de coaching online o sesiones 1 a 1 a través de la app para quienes deseen un seguimiento experto.
+Paquetes exclusivos para deportistas o perfiles fitness avanzados.
+Concursos y recompensas VIP:
+
+Crear competencias internacionales o desafíos exclusivos donde puedan obtener premios tangibles (equipamiento deportivo, membresías premium, etc.).
+Ejemplo: “Corre 200 km este mes y participa por un smartwatch premium.”
+Datos avanzados y analítica personalizada:
+
+Ofrecer informes detallados de performance, como eficiencia de quema calórica por actividad, zonas de frecuencia cardíaca, VO2 max, etc.
+Dashboards personalizados para visualizar progreso a largo plazo.
+4. Recomendaciones generales para todos los segmentos
+Gamificación y motivación
+Sistema de logros y medallas según el progreso.
+Crear niveles de usuario (principiante, intermedio, avanzado) que motiven el avance.
+Recordatorios inteligentes y adaptativos
+Notificaciones push no invasivas que adapten su frecuencia y contenido según el comportamiento del usuario.
+Por ejemplo, si no abren la app en 3 días → enviar una notificación amable recordándoles los beneficios.
+Integraciones con otras plataformas de salud
+Integrar Bellabeat con Google Fit, Apple Health, o apps de nutrición como MyFitnessPal para una visión holística del bienestar.
+Beneficios esperados para Bellabeat
+Aumento en la retención de usuarios a largo plazo.
+Mejora del engagement diario en la app y el uso de dispositivos.
+Incremento de las conversiones a planes premium y ventas adicionales (cross-selling).
+Fortalecimiento de la experiencia del cliente (UX) y la satisfacción del usuario.
+Mejor posicionamiento competitivo en el mercado de wellness tech.
+Ejemplo de comunicación a los stakeholders
+"Con base en el análisis del comportamiento de los usuarios de Bellabeat, hemos segmentado la base de usuarios según su actividad calórica diaria. Las estrategias propuestas personalizan la experiencia, incrementan la motivación y generan nuevas oportunidades de monetización, consolidando a Bellabeat como líder en salud digital femenina."
+
+Link presentación o resumen ejecutivo: https://www.canva.com/design/DAGhoEz1k54/a1QdNGJXbOUxWBje9HM4nA/edit?utm_content=DAGhoEz1k54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
